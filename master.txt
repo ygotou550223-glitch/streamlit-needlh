@@ -1,0 +1,4 @@
+name,rate_uph,util,indirect_pct
+Dock(2),900,0.85,0.10
+Rcv(1),500,0.88,0.05
+Stow(1),300,0.90,0.05
